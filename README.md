@@ -3,10 +3,10 @@
 ## I major in Java, Javascript, etc.
 
 ### 🤔My Git Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2)<br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=Sua90827)<br>
 
 ### 🧰 My languages and tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/JoonYoung2/JoonYoung2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sua90827&layout=compact)](https://github.com/Sua90827/Sua90827)
 <br>
 
 ### ⚡ Tech Stack
