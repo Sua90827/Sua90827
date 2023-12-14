@@ -1,6 +1,6 @@
-## Hi there 👋<br>I`m a K.U. student who want be a software developer. 💻
-- K.U. means my university, Konyang University.
-## I major in Java, Javascript, etc.
+## Hi there 👋<br>I`m Sua who want to be a software developer. 💻
+
+### I LOVE Java, Javascript, Python.
 
 ### 🤔My Git Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Sua90827)<br>
@@ -29,32 +29,30 @@
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Sass&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Gradle-black?style=flat&logo=Sass&logoColor=02303A"/>
+<img src="https://img.shields.io/badge/Maven-yellow?style=flat&logo=Sass&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/PL/SQL-white?style=flat&logo=Sass&logoColor=4169E1"/>
 </div>
 
 
 ### 📫 How to reach me
-* Instagram : [@JoonYoung2](https://www.instagram.com/jyseo0901/)
+* Instagram : [@sua90827](https://www.instagram.com/sua90827/)
+* Email : [kimsuasch@gmail.com](mailto:kimsuasch@gmail.com)
 <br><br>
 
 
-<!--
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonYoung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
--->
-<!--
-**JoonYoung2/JoonYoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✨ If you want to know about me more ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2&show_icons=true&theme=radical)
--->
+- 🔭 I’m currently working on getting a job as a back-end developer.
+- 🌱 I’m currently learning JPA.
+- 👯 I’m looking to collaborate on making any interesting sort of Web site.
+- 🤔 I’m looking for help with making better potfolio.
+- 💬 Ask me about anything. Please don't hesitate to contact me.
+- 📫 How to reach me: Using my Instagram profile link, you can send me direct messages. Or, you can mail me using my email address.
+- 😄 Pronouns: she / her / hers
+- ⚡ Fun fact: I'm addicted spicy foods, and I love more night than day.
+
+
+<p align="left">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsua90827&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
