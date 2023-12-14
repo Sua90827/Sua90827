@@ -4,11 +4,15 @@
 <br>
 
 ### 👩‍💻 My Git Stats 👩‍💻
-![My github stats](https://github-readme-stats.vercel.app/api?username=Sua90827)<br><br><br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=Sua90827)
+![dkdk](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sua90827)<br><br><br>
 
 ### 🧰 My languages and tools 🧰
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sua90827&layout=compact)](https://github.com/Sua90827/Sua90827)
 <br><br><br>
+
+
+
 
 ### ⚡ Tech Stack ⚡
 - FE
