@@ -1,6 +1,6 @@
-## Hi there 👋<br>I`m Sua who want to be a software developer. 💻
+## Hi there 👋<br>I`m Sua who is a software developer. 💻
 
-### I LOVE Java, Javascript, Python.
+### I LOVE Java, PHP, Javascript, Python.
 <br>
 
 ### 👩‍💻 My Git Stats 👩‍💻
