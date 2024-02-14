@@ -48,10 +48,10 @@
 
 ### ✨ If you want to know about me more ✨ 
 
-- 🔭 I’m currently working on getting a job as a back-end developer.
+- 🔭 I’m currently working on developing LMS systems using PHP and make them better.
 - 🌱 I’m currently learning JPA.
 - 👯 I’m looking to collaborate on making any interesting sort of web site.
-- 🤔 I’m looking for help with making better potfolio.
+- 🤔 I’m looking for the way to change language to Java from PHP for the company and LMS system.
 - 💬 Ask me about anything. Please don't hesitate to contact me.
 - 📫 How to reach me: Using my Instagram profile link, you can send me direct messages. Or, you can mail me using my email address.
 - 😄 Pronouns: she / her / hers
