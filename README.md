@@ -48,12 +48,12 @@
 
 ### ✨ If you want to know about me more ✨ 
 
-- 🔭 I’m currently working on developing LMS systems using PHP and make them better.
+- 🔭 I’m currently working on developing LMS systems using PHP and making them better.
 - 🌱 I’m currently learning JPA.
 - 👯 I’m looking to collaborate on making any interesting sort of web site.
 - 🤔 I’m looking for the way to change language to Java from PHP for the company and LMS system.
 - 💬 Ask me about anything. Please don't hesitate to contact me.
-- 📫 How to reach me: Using my Instagram profile link, you can send me direct messages. Or, you can mail me using my email address.
+- 📫 How to reach me: Using my Instagram profile link, you can send me direct messages. You can mail me using my email address as well.
 - 😄 Pronouns: she / her / hers
 - ⚡ Fun fact: I'm addicted spicy foods, and I love more night than day.
 
