@@ -1,7 +1,6 @@
 ## Hi there 👋<br>I`m Sua who is a software developer. 💻
 
-### I have experience with project development using Node.js, Java, and PHP.
-### Currently, I am working with PHP in a professional setting.
+### I have experience with project development using Node.js, Java, and PHP. <br> Currently, I am working with PHP in a professional setting.
 <br>
 
 ### 👩‍💻 My Git Stats 👩‍💻
