@@ -1,6 +1,7 @@
 ## Hi there 👋<br>I`m Sua who is a software developer. 💻
 
-### I LOVE Java, PHP, Javascript, Python.
+### I have experience with project development using Node.js, Java, and PHP.
+### Currently, I am working with PHP in a professional setting.
 <br>
 
 ### 👩‍💻 My Git Stats 👩‍💻
@@ -50,7 +51,7 @@
 ### ✨ If you want to know about me more ✨ 
 
 - 🔭 I’m currently working on developing LMS systems using PHP and making them better.
-- 🌱 I’m currently learning JPA.
+- 🌱 I’m currently learning freediving.
 - 👯 I’m looking to collaborate on making any interesting sort of web site.
 - 🤔 I’m looking for the way to change language to Java from PHP for the company and LMS system.
 - 💬 Ask me about anything. Please don't hesitate to contact me.
